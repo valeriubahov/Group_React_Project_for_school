@@ -5,7 +5,7 @@ import './App.css';
 function Price() {
   return (
     <div className="Price">
-      <p>To much for me to afford it</p>
+      <p>450000 $</p>
     </div>
   );
 }
