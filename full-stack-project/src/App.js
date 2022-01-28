@@ -11,6 +11,7 @@ function App() {
       <Image/>
       <Price/>
       <Description/>
+      <Button/>
     </div>
   );
 }
