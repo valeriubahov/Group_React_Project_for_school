@@ -1,5 +1,6 @@
 .Price {
-    font-family: Georgia, "Times New Roman", Times, serif;
-    font-weight: bold;
+    font-family: 'Supermercado One', cursive;
     font-size: 20pt;
+    background-color: rgb(255, 238, 0);
+    border: 2px solid red;
 }
