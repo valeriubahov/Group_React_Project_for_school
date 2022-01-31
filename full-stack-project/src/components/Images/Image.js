@@ -1,4 +1,5 @@
 import React from "react";
+import './images.css'
 const ImageComp = function (props)
 {
     const ItemImage = "../honeybadger1.jpeg"; //insert image URL or file name from public folder here
