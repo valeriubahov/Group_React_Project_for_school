@@ -3,7 +3,7 @@ import './location.css';
 function Location() {
   return (
     <div className="Location">
-      <p>Halifax, NS, Canada</p>
+      <p> Halifax, NS, Canada</p>
     </div>
   );
 }
