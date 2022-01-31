@@ -1,7 +1,7 @@
 import './App.css';
 import Description from './components/Description/Description';
 import Price from './components/Price/Price';
-import Button from './components/buttons/button';
+import Button from './components/Buttons/button';
 import Image from './components/Images/Image';
 import Location from './components/Location/Location';
 
