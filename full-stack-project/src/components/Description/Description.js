@@ -1,3 +1,5 @@
+import './description.css';
+
 function Description() {
     return (
     <div className="Description" > 
